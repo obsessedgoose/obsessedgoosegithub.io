@@ -168,7 +168,7 @@ header div a {
     border-color: tan;
     justify-content: right;
     font-weight: bold;
-    background-image: url("./assets/images/run-buddy.PNG");
+    background-image: url("../portfolio/assets/images/personal.jpg");
     background-size: cover;
     background-attachment: local;
     border-radius: 10px;
@@ -209,7 +209,7 @@ header div a {
     color:rgb(254, 254, 255);
     justify-content: left;
     font-weight: bold;
-    background-image: url("./assets/images/work.jpg");
+    background-image: url("../portfolio/assets/images/work.jpg");
     background-size: cover;
     background-attachment: local;
     border-radius: 10px;
@@ -225,7 +225,7 @@ header div a {
     color:var(--primary-color);
     justify-content: right;
     font-weight: bold;
-    background-image: url("./assets/images/run-buddy.PNG");
+    background-image: url("../portfolio/assets/images/run-buddy.PNG");
     background-size: cover;
     background-attachment: local;
     border-radius: 10px;
